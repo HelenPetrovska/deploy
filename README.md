@@ -2,6 +2,8 @@
 - git
   - .gitignore
 - dependencies(package.json)
+  - bulma
+  - typescript
 -scripts
   - start(dev server)
   - build(source -> bundle)
@@ -9,6 +11,7 @@
     -ore-commit hook
   - test*
   -deploy
+-CI/CD
 
 ## Git
 - commits
