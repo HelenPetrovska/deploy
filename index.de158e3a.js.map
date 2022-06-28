@@ -1,1 +1,1 @@
-{"mappings":"","sources":["src/main.js"],"sourcesContent":[null],"names":[],"version":3,"file":"index.de158e3a.js.map","sourceRoot":"/__parcel_source_root/"}
+{"mappings":"AAAA,OAAO,CAAC,GAAG,CAAC;IACV,MAAM,EAAE,EAAE;CACX,CAAC","sources":["src/main.js"],"sourcesContent":["console.log({\n  answer: 42,\n})"],"names":[],"version":3,"file":"index.de158e3a.js.map","sourceRoot":"/__parcel_source_root/"}
